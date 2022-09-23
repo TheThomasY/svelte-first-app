@@ -1,2 +1,2 @@
-export { default as formatOrdinalDate } from './formatOrdinalDate';
+export { default as getTodaysDate } from './getTodaysDate';
 export { default as randomUtil } from './randomUtil';
